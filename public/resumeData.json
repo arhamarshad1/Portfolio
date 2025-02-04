@@ -4,7 +4,7 @@
     "occupation":"Computer Science Student",
     "description":"Hello, world! Welcome to my portfolio",
     "image":"arham-arshad.jpg",
-    "bio":"Hi I'm Arham (he/him), a recently graduated computer science student, studying at Dalhousie University located on the East coast of Canada. I have a wide range of expereinces working as a Business Intelligence Analyst at Colliers International and as well as a web application developer for ACM SIGSOFT.",
+    "bio":"Dynamic Product Manager with years of experience delivering transformative results in technology and product development. Expertise in Agile methodology and digital product management enables the successful execution of multiple high-impact projects while fostering strong stakeholder relationships. A track record of enhancing client engagement through strategic product launches and process improvements has led to notable increases in satisfaction and retention. Proficiency in business analytics informs data-driven decision-making, optimizing processes for maximum impact. Committed to driving seamless transitions and user adoption through effective change management strategies.",
     "email": "Arham.Arshad@dal.ca",
     "address":{
       "city":"Toronto",
@@ -37,27 +37,34 @@
     ],
     "work":[
       {
+        "company":"Accenture",
+        "title":"Product Manager",
+        "years":"September 2022 - Present",
+        "description":"I have successfully managed multiple projects simultaneously, ensuring on-time and on-budget delivery while fostering strong relationships with internal stakeholders. By maintaining a comprehensive product backlog, I prioritized features based on business value, customer impact, and technical feasibility. I played a key role in launching multiple client-centric products and features, driving a 20% increase in client engagement. Additionally, I implemented processes to identify pain points and enhance digital products across various business lines, leading to a 25% improvement in overall client satisfaction. During a critical overnight mobile upgrade release, I swiftly handled client escalations caused by defects and bugs in the mobile banking application, mitigating potential client losses. I also developed and implemented change management strategies, including user training and comprehensive documentation, to support seamless transitions and user adoption."
+      },
+      
+      {
         "company":"Colliers International",
-        "title":"Business Intelligence Analyst",
+        "title":"Technology Consultant",
         "years":"June 2021 - August 2022",
         "description":"Advanced experience Power BI development and administration - Advanced experience building Analysis Services reporting models - Advanced proficiency in Developing visual reports, dashboards and KPI scorecards using Power BI desktop - Advanced level knowledge and experience connecting to data sources, importing data and transforming data (ETL) for Business Intelligence using SSIS packages and stored procedures - Advanced proficiency in building Dataflows to replace Analysis Services tabular models - Proficient in creating DAX queries in Power BI desktop - Expertise in using advance level calculations on the data set - Experience developing custom Power BI visuals using JSON files - Adept in developing, publishing and scheduling Power BI reports as per business requirements - Able to properly understand the business requirements and develop data models accordingly - Responsible for design methodology and project documentation - Knowledge and experience in prototyping, designing, and requirement analysis - Able to integrate Power BI reports into other applications using embedded analytics like Power BI Service (SaaS), or by API automation - Excellent in analytical thinking for translating data into informative visuals and reports - Knowledge and skills in secondary tools such as Microsoft Azure, SQL data warehouse, Visual Studio - Software languages: SQL, Python, DAX, M language"
       },
       {
         "company":"ACM, Association for Computing Machinery",
-        "title":"Web Application Developer Intern",
+        "title":"Web Application Developer",
         "years":"January 2021 - April 2021",
         "description":"- Conducted extensive research on peer reviews and determined problems associated with peer reviews in scholarly journals such as bias and misconduct.\n- Developed, verified and validated a regression model using R that helps determine how the process of peer review could be structured to overcome the aforementioned problems.\n- Created an interactive web application using JavaScript to allow authors and reviewers at ACM Digital Library to generate a dynamic checklist based on each type of empirical study in software engineering. \n- Maintained and documented the quality of code with accordance to software development practices such as commenting, indentation, debugging and refactoring. \n- Produced and delivered a technical report detailing the entire project and areas of future research at a workshop about software engineering hosted by Evaluation and Assessment in Software Engineering (EASE)."
       },
       {
         "company":"Natural Sciences and Engineering Research Council of Canada (NSERC)",
-        "title":"Research Analyst Intern ",
+        "title":"Operations Analyst",
         "years":"May 2020 - September 2020",
         "description":"Conducted extensive research on Agile software development predicting correlations between exogenous and endogenous variables using mathematical regression models in R.\n Brought forth a strong understanding of research methods and data analysis by performing case meta-analysis and statistical analysis on case studies that used Scrum practices.\n \n Documented a research paper for publishing detailing the entire project.\n Organized and prioritized work to complete tasks in timely, efficient manner."
       },
       {
         "company":"Dalhousie University",
         "title":"Teaching Assistant",
-        "years":"September 2019 - Present",
+        "years":"September 2019 - August 2022",
         "description":"Assisted professor by conducting tutorials and labs while also aiding students with their assignments focusing on HTML, CSS and JavaScript.\n Graded labs and assignments along with providing weekly discussions with students.\n Worked with students individually and provided extra support at the faculty’s Learning Center.\n Other Duties include grading weekly quizzes, workbooks, essays and term project reports."
       }
     ],
